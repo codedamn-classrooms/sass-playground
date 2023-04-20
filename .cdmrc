@@ -1,0 +1,3 @@
+tabs: ['index.html','assets/scss/main.scss']
+terminal-one: static-server -p 1337 --no-cache
+terminals: ["static-server -p 1337 --no-cache", "yarn install && yarn run sass-dev"]
